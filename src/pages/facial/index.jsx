@@ -2,7 +2,7 @@ import React from "react";
 import facial from "../../assets/image/facial.png";
 function Facial() {
   return (
-    <div class="bg-white text-gray-800">
+    <div class="bg-gray-50 text-gray-800 p-10">
       <div class="text-center mt-6 mb-4">
         <h2 class="text-xl font-medium">Facials</h2>
       </div>
@@ -25,7 +25,7 @@ function Facial() {
             skin while nourishing it. 2 in 1 formula of anti ageing and skin
             lightening.
           </p>
-          <button class="bg-pink-500 hover:bg-pink-600 text-white text-sm font-semibold py-2 px-6 rounded">
+          <button class="bg-pink-400 text-white  hover:bg-pink-500 text-sm font-semibold py-2 px-6 rounded">
             Enquire Now
           </button>
         </div>
@@ -39,7 +39,7 @@ function Facial() {
             free radiant skin. Due to these amazing properties and skin benefits
             almond scrub makes an excellent div scrub agent.
           </p>
-          <button class="bg-pink-500 hover:bg-pink-600 text-white text-sm font-semibold py-2 px-6 rounded">
+          <button class="bg-pink-400 text-white  hover:bg-pink-500 text-sm font-semibold py-2 px-6 rounded">
             Enquire Now
           </button>
         </div>

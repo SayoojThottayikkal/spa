@@ -1,4 +1,5 @@
 import "./App.css";
+import ContactFooter from "./pages/contact";
 import Facial from "./pages/facial";
 import Header from "./pages/header/index";
 import Massage from "./pages/massage";
@@ -17,6 +18,7 @@ function App() {
       <Relaxation />
       <Scrub />
       <Facial />
+      <ContactFooter />
     </>
   );
 }
